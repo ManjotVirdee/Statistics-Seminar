@@ -25,3 +25,13 @@ Lets now take a moment to talke with your neighbors. Where are you in your under
 Or does it have mastery over you? Are you required to use R by some journal or academic field? Or is R your only way to access certain methods for your analysis?
 
 This is still a coding language an there is some mental transformation when we want to convert an idea we have into code - Using Psudocode
+
+
+
+r is for stats and stats packages (What is a library?)
+Data manipulation (ETL)
+Descriptive statistics
+Graphics
+Modleing/machine learning
+And More
+

@@ -1,4 +1,18 @@
 
+Contents: version 2
+1. psudocode
+2. R code history
+3. statistical tests (functions) [connect psudo code to statistics]
+4. From Scripting to Notebooks
+ - from pieplines to workflows [workflows have substitute parts depending on the statistical domain needs]
+ - domains like genetics, RNA-seq, metabolomics, microbiome-omics
+5. Packages [graphing and sets of workflows to lead to tested methodolgy]
+6. The true power of code - being connected [API's like ensamble, or Rshiny dashboards]
+
+
+
+
+Those who can't do teach, those who can demonstrate
 
 
 Contents:
